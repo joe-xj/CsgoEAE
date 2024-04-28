@@ -16,9 +16,8 @@ This is the implementation of the paper [Co and Structure-aware for Document-lev
 <p align="center" width="100%">
 <img src="./CsgoEAE_backbone.jpg" alt="CsgoEAE" style="width: 30%; height: auto; display: inline-block; margin: auto; border-radius: 40%;">
 </p>
-In this work we present CsgoEAE for document-level event argument extraction. We formulate highlights as follow.
-
-- Multiple-event cues aid in enhancing the model's performance when dealing with complex event relationships.
+In this work we present CsgoEAE for document-level event argument extraction. We formulate highlights as follow:
+- Multiple-event prompts aid in enhancing the model's performance when dealing with complex event relationships.
 - Constructing structured information by limiting the receptive field can alleviate the interference of redundant information.
 - The prefix-based approach can integrate various auxiliary perceptual information.
 
