@@ -14,7 +14,6 @@ This is the implementation of the paper [Co and Structure-aware for Document-lev
 
 ## Overview
 ![](./CsgoEAE_main.pdf)
-
 In this work we present CsgoEAE for document-level event argument extraction. We formulate highlights as follow.
 
 - Multiple-event cues aid in enhancing the model's performance when dealing with complex event relationships.
