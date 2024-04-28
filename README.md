@@ -39,7 +39,6 @@ All experiments run with BART_Large, You can install from [Huggingface](https://
 
 ### Data
 We conduct experiments on three common datasets: RAMS, WIKIEVENTS and MLEE.
-- We write a script for you for data processing. Run the following commands in the root directory of the repo.
 
 ## Run the model
 
