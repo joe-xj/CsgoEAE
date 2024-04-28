@@ -10,15 +10,10 @@ This is the implementation of the paper [Co and Structure-aware for Document-lev
   * [Data](#data)
 * [Run the model](#run-lm-bff)
   * [Quick start](#quick-start)
-  * [Experiments with multiple runs](#experiments-with-multiple-runs)
-  * [Without bipartite loss](#without-bipartite-loss)
-  * [Joint/Single prompts](#joint-prompt-or-not)
-  * [Manual/Concat/Soft prompts](#manual-prompt-or-others)
-  * [Few-shot setting](#few-shot-setting)
 * [Citation](#citation)
 
 ## Overview
-![](./model_framework.jpg)
+![](./CsgoEAE_main.pdf)
 
 In this work we present CsgoEAE for document-level event argument extraction. We formulate highlights as follow.
 
