@@ -1,5 +1,5 @@
-# CsgoEAE (**C**o and **S**tructure aware **G**enerative-based **O**f **E**vent **A**rgument **E**xtraction)
-This is the implementation of the paper [Co and Structure-aware for Document-level Event Argument Extraction]
+# CsEAE (**C**o and **S**tructure aware **G**enerative-based **E**vent **A**rgument **E**xtraction)
+This is the implementation of the paper [One Small and One Large for Document-level Event Argument Extraction]
 
 
 ## Quick links
